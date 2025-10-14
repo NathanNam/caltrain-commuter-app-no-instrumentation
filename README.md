@@ -6,6 +6,12 @@ A Next.js web application that helps Caltrain commuters plan their trips by prov
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8)
 
+## 🚀 Live Demo
+
+**Try it now:** [https://caltrain-commuter.observe-demo.com/](https://caltrain-commuter.observe-demo.com/)
+
+The live demo is fully functional with real-time features enabled!
+
 ## Overview
 
 This app provides comprehensive real-time information for Caltrain commuters across all 32 stations from San Francisco to Gilroy. Key capabilities include:
